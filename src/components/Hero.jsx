@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import React, { useState, useEffect } from 'react';
-import TAJ from '../assets/TAJ.PNG'; 
+import TAJ from '../assets/TAJ.png'; 
 
 const Hero = () => {
   // Détecter si on est sur mobile pour ajuster les styles dynamiquement
