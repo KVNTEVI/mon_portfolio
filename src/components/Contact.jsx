@@ -70,7 +70,7 @@ const Contact = () => {
           </a>
           {/* WhatsApp - Vert */}
           <a 
-            href="https://wa.me/22897909802" 
+            href="https://wa.me/22897909802?text=Bonjour%20Josu%C3%A9%2C%20je%20souhaite%20discuter%20d'un%20projet." 
             target="_blank" 
             rel="noopener noreferrer" 
             style={styles.btnWhatsapp} 
