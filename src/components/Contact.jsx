@@ -69,7 +69,13 @@ const Contact = () => {
             <FaGithub fontSize="1.5rem" />
           </a>
           {/* WhatsApp - Vert */}
-          <a href="https://wa.me/22897909802" target="_blank" rel="noopener noreferrer" style={styles.btnWhatsapp} aria-label="WhatsApp">
+          <a 
+            href="https://wa.me/22897909802" 
+            target="_blank" 
+            rel="noopener noreferrer" 
+            style={styles.btnWhatsapp} 
+            aria-label="WhatsApp"
+          >
             <FaWhatsapp fontSize="1.8rem" />
           </a>
         </div>
